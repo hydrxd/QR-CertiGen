@@ -1,0 +1,14 @@
+{
+    "number": 1,
+    "participants": [
+        {
+            "UID": "4f730904d719488abf4f103bba02c231",
+            "Name": "Name",
+            "Roll #": "Roll",
+            "Semester": "1",
+            "Programme": "Course Name",
+            "Phone #": "Phone number/email ID for updates, mailing certifs",
+            "WhatsApp #": "WhatsApp Number to send updates regarding the events."
+        }
+    ]
+}
